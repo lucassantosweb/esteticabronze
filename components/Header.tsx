@@ -25,7 +25,7 @@ export const Header: React.FC = () => {
         <div className="flex-shrink-0">
             <a href="#home" className="flex items-center gap-3 group">
                 <img 
-                  src={IMAGES.LOGO} 
+                  src={logoesteticabronze} 
                   alt="Estética Bronze Logo" 
                   className="h-[35px] md:h-[45px] w-auto rounded-full object-cover transition-transform duration-300 group-hover:scale-105 shadow-sm"
                 />
